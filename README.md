@@ -1,4 +1,4 @@
-# BETA Firm Analyst: an Evidence-First Research Agent for Kenyan Manufacturing
+# Bottom-Up Economic Transformation Agenda Firm Analyst: an Evidence-First Research Agent for Kenyan Manufacturing
 
 A research agent that identifies Kenya-based manufacturing firms aligned with the government's Bottom-Up Economic Transformation Agenda (BETA), verifies them against public sources, scores them against a published framework, and reports every claim with its source, date, and confidence level.
 
